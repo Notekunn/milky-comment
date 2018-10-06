@@ -1,0 +1,24 @@
+{
+  "name": "milky-comment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Notekunn/milky-comment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Notekunn/milky-comment/issues"
+  },
+  "homepage": "https://github.com/Notekunn/milky-comment#readme",
+  "dependencies": {
+    "facebook-comment-api": "github:Notekunn/facebook-comment-api",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
